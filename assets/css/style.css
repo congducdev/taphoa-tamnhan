@@ -2,14 +2,6 @@
   #index.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -196,9 +188,49 @@ body.nav-active { overflow: hidden; }
 
 ::-webkit-scrollbar-thumb { background-color: var(--gold-crayola); }
 
+/*-----------------------------------*\
+  #Normal
+\*-----------------------------------*/
+.pd-bt-10px {
+  padding-bottom: 10px;
+}
+
+.pd-bt-20px {
+  padding-bottom: 20px;
+}
+
+.pd-bt-30px {
+  padding-bottom: 30px;
+}
+
+.pd-bt-40px {
+  padding-bottom: 40px;
+}
+
+.pd-bt-50px {
+  padding-bottom: 50px;
+}
 
 
+.pd-t-10px {
+  padding-top: 10px;
+}
 
+.pd-t-20px {
+  padding-top: 20px;
+}
+
+.pd-t-30px {
+  padding-top: 30px;
+}
+
+.pd-t-40px {
+  padding-top: 40px;
+}
+
+.pd-t-50px {
+  padding-top: 50px;
+}
 
 /*-----------------------------------*\
   #TYPOGRAPHY
