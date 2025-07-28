@@ -540,7 +540,7 @@ body.nav-active { overflow: hidden; }
 .preload.loaded > * { opacity: 0; }
 
 .preload.loaded {
-  transition-delay: 750ms;
+  transition-delay: 1250ms;
   transform: translateY(100%);
 }
 
