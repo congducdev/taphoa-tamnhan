@@ -735,7 +735,7 @@ body.nav-active { overflow: hidden; }
 
 .navbar-link {
   position: relative;
-  font-size: var(--fontSize-label-2);
+  font-size: var(--fontSize-label-1);
   text-transform: uppercase;
   padding-block: 10px;
   max-width: unset;
@@ -1991,7 +1991,7 @@ textarea.input-field {
 
   .navbar-list {
     display: flex;
-    gap: 30px;
+    gap: 40px;
   }
 
   .navbar-item { border-block-start: none; }
@@ -2015,8 +2015,6 @@ textarea.input-field {
   }
 
   .header .btn { margin-inline-start: 0; }
-
-
 
   /**
    * HERO
@@ -2171,5 +2169,10 @@ textarea.input-field {
     bottom: 80px;
     left: 0;
   }
+
+}
+
+/* Text inline image  */
+.text-inline-img {
 
 }
